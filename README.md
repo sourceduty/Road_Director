@@ -10,9 +10,7 @@
 <details><summary>Eastern Toronto Bypass</summary>
 <br>
 
----------------------------
-| Eastern Toronto Bypass  |
----------------------------
+Eastern Toronto Bypass
 
 Starting Point:
 - Connect to Highway 401 near Scarborough.
@@ -43,9 +41,8 @@ Simulation Analysis:
    - Estimate economic benefits versus the cost of construction.
    - Consider long-term benefits of reduced travel time and improved traffic flow.
 
----------------------------
-| Visualization            |
----------------------------
+Visualization           
+
 1. Highway 401 near Scarborough
    |
    | (New Bypass)
@@ -53,9 +50,7 @@ Simulation Analysis:
    V
 2. Connection to Gardiner Expressway or downtown road grid
 
----------------------------
-| End of Proposal          |
----------------------------
+End of Proposal          
 
 <br>
 </details>
