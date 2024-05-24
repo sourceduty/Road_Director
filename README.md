@@ -43,12 +43,14 @@ Simulation Analysis:
 
 Visualization           
 
+```
 1. Highway 401 near Scarborough
    |
    | (New Bypass)
    |
    V
 2. Connection to Gardiner Expressway or downtown road grid
+```
 
 End of Proposal          
 
