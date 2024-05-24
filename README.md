@@ -5,6 +5,10 @@
 'Road Director' can help in numerous ways. Firstly, it can provide data-driven insights and recommendations for upgrading current road networks, such as widening lanes, adding traffic signals, or implementing new traffic management strategies. Secondly, it can assist in the planning and design of new roads, ensuring they meet the needs of the community while minimizing environmental impact. Additionally, 'Road Director' can simulate various scenarios to predict how changes in the road network will affect traffic patterns, allowing for informed decision-making. This proactive approach ensures that road infrastructure is developed in a way that maximizes efficiency and safety for all users.
 
 #
+
+Alex: *"This custom GPT works surpisingly well for what it is. It's an example or concept and it won't be sold."*
+
+#
 ### Example Usage
 
 <details><summary>Eastern Toronto Bypass</summary>
