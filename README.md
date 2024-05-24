@@ -6,7 +6,7 @@
 
 #
 
-Alex: *"This custom GPT works surpisingly well for what it is. It's an example or concept and it won't be sold."*
+Alex: *"This custom GPT works surprisingly well for what it is. It's an example or concept and it won't be sold."*
 
 #
 ### Example Usage
