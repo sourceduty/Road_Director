@@ -1,4 +1,4 @@
-![Roads](https://github.com/user-attachments/assets/cfeee72d-0733-4c35-ad95-e43023552024)
+![Road](https://github.com/user-attachments/assets/c1a05976-1c92-4d85-8bc8-abefb5577a7e)
 
 > Simulate road changes and new road construction to optimize roadway routes.
 
